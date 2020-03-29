@@ -16,8 +16,7 @@ public class PrimeiroProjetoJava {
      */
     public static void main(String[] args) {
         
-        System.out.println("Está dando certo, estou fazendo o projeto no java crescer!!");
-        System.out.println("Testando commit");
+        System.out.println("Retornando o projeto inicial");
         // TODO code application logic here
     }
 }
