@@ -15,6 +15,8 @@ public class PrimeiroProjetoJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("Está dando certo, estou fazendo o projeto no java crescer!!");
         // TODO code application logic here
     }
     
